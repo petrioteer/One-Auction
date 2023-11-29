@@ -1,0 +1,43 @@
+.container {
+    width: 400px;
+    margin: 0 auto;
+    padding: 111px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  form {
+    margin-top: 30px;
+    margin-bottom:30px;
+  }
+  
+  input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 12px;
+  }
+  
+  button {
+    width: 423px;
+    padding: 10px;
+    background-color: #000;
+    color: #fff;
+    border: none;
+    border-radius: 12px;
+  }
+  
+  p {
+    text-align: center;
+    margin-top: 10px;
+  }
+  
+  a {
+    color: #000;
+    text-decoration: none;
+    font-weight: bold;
+  }
+
